@@ -105,7 +105,7 @@ nav.navbar {
 }
 
 .part5 {
-    width: 100vw;
+    width: 90vw;
     height: 200px;
     background-color: bisque;
     display: flex;
@@ -141,7 +141,7 @@ nav.navbar {
 @media screen and (max-width:900px) {
     .pictures {
         display: grid;
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr;
         gap: 10px;
     }
 
